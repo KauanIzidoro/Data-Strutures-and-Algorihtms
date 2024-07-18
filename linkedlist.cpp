@@ -7,7 +7,7 @@ using namespace std;
      -> Like a chain;
      -> Unlike arrays they are dynamic and can be added continously;
      -> Time complexity of O(1) for searching and shifting (arrays for shifting O(n));
-     -> Space complexity O(n);
+     -> Space complexity O(n).
 
 */
 
